@@ -1,4 +1,5 @@
-This Python script has been developed from source found on the internet
+This Python script has been developed from source found on the internet.
+
 Author web-site : https://medium.com/@nayak.abhijeet1/
 Title           : analogue-gauge-reader-using-computer-vision-62fbd6ec84cc
 There are a number of library files required which can be loaded with pip install
